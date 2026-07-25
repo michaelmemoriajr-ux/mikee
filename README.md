@@ -27,6 +27,8 @@ mikee making apps or games and bringing some old apps aswell
 ### 🛠️ Core Technologies & Tools
 Below are the frameworks used to bring these cross-platform applications to life:
 
+[![Windows Builds](https://shields.io)](https://github.com) [![Linux Builds](https://shields.io)](https://github.com) [![MacOS Builds](https://shields.io)](https://github.com)
+
 ![](https://shields.io)
 ![](https://shields.io)
 ![](https://shields.io)
