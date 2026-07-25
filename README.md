@@ -19,6 +19,7 @@ mikee making apps or games and bringing some old apps aswell
 
 ![](https://shields.io)
 <a href="https://discord.gg">![](https://shields.io)</a>
+[![Windows Builds](https://shields.io)](https://github.com) [![Linux Builds](https://shields.io)](https://github.com) [![MacOS Builds](https://shields.io)](https://github.com) [![code quality](https://shields.io)](https://github.com) [![PCSX2 Discord](https://shields.io)](https://discord.gg)
 
 <br/>
 <hr/>
